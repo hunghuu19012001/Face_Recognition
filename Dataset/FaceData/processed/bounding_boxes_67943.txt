@@ -1,0 +1,10 @@
+Dataset/FaceData/processed\PhamTrungHieu\z3359171069476_8af181a53cbc9c894323a9823db6cbb6.png 597 931 1583 2300
+Dataset/FaceData/processed\PhamTrungHieu\z3359171052866_7e080ebf1ec5e32f756559d38dad7b5a.png 558 967 1548 2279
+Dataset/FaceData/processed\PhamTrungHieu\z3359170587076_095f80a5125825abc1e265241725b67f.png 549 1064 1543 2430
+Dataset/FaceData/processed\PhamTrungHieu\z3359170986864_9f27468500db312fbefe4f9ec33b7c38.png 554 925 1581 2327
+Dataset/FaceData/processed\PhamTrungHieu\z3359170641980_a05338ca20fc57053236975c5f78c1a4.png 325 797 1448 2355
+Dataset/FaceData/processed\PhamTrungHieu\z3359170597135_6b2c675d24e644bbdb13ce6d29bec90d.png 475 823 1546 2245
+Dataset/FaceData/processed\PhamTrungHieu\z3359170761839_6d6f40f39793875dbd59877cbfcc417b.png 555 961 1570 2362
+Dataset/FaceData/processed\PhamTrungHieu\z3359170528690_64ecf1e9bc22a668dfe72bcc8e93767b.png 500 824 1540 2255
+Dataset/FaceData/processed\PhamTrungHieu\z3359171053197_01f6f697a126266f9e3fd26e6950c38a.png 378 738 1427 2210
+Dataset/FaceData/processed\PhamTrungHieu\z3359170689542_3725ec3a37babbefe16728d9d2b7aa2c.png 399 819 1473 2286
